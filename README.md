@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I get nervous around many people.
 - 📫 Email: [sayanadhikary831@gmail.com](adhikarysayan2@gmail.com)
 - 🌐 Portfolio: [leogodadhikary.000webhostapp.com](https://leogodadhikary.000webhostapp.com/)
-- <a href="https://SayanAdhikaryCV.pdf" target="_blank">
+- <a href="/sayanCV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="CV Button"/>
 </a>
 
