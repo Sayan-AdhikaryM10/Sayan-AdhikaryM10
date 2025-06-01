@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is  Sayan Adhikary and I'm a We Developer from Kolkata</h2>
+<h2 align="left">Hi 👋! My name is  Sayan Adhikary and I'm a Web Developer from Kolkata</h2>
 <h3 align="center">BCA Student at MAKAUT | Coding Enthusiast | Passionate about Technology & Innovation</h3>
 
 ## About Me
