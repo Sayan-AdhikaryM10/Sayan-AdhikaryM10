@@ -24,12 +24,12 @@
 <a href="https://leetcode.com/u/leoGod10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan_adhi" height="30" width="40" /></a>
 </p>
 
-<h2 align="left">Hi 👋! My name is  Suman Biswas and I'm a JAVA Developer from Kolkata</h2>
+<h2 align="left">Hi 👋! My name is  Sayan Adhikary and I'm a We Developer from Kolkata</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanbiswas9&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sayan-AdhikaryM10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanbiswas9&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
