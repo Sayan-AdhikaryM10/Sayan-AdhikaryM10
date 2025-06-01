@@ -7,8 +7,8 @@
 - 💞️ I’m looking to collaborate on open-source projects.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I get nervous around many people.
-- 📫 Gmail: [sayanadhikary831@gmail.com](adhikarysayan2@gmail.com)
-- 🌐 Portfolio: [leogodadhikary.000webhostapp.com](https://leogodadhikary.000webhostapp.com/)
+- 📫 Gmail: sayanadhikary831@gmail.com
+- 🌐 Portfolio: leogodadhikary.000webhostapp.com
 - <a href="/sayanCV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="CV Button"/>
 </a>
@@ -87,7 +87,7 @@
   <a href="https://www.instagram.com/adhikaryleogod/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="sayanadhikary831@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sayan-adhikary-088a34270/" target="_blank">
