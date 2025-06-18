@@ -40,8 +40,6 @@
 ###
 
 <div align="left">
-  <img src="https://d502jbuhuh9wk.cloudfront.net/courses/6570c175e4b00d436e1c89c0/6570c175e4b00d436e1c89c0_scaled_cover.jpg?v=1" height="30" alt="html logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
