@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I get nervous around many people.
 - 📫 Gmail: sayanadhikary831@gmail.com
-- 🌐 Portfolio: leogodadhikary.000webhostapp.com
+- 🌐 Portfolio: https://sayanadhikary.free.nf/
 - <a href="/sayanCV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="CV Button"/>
 </a>
