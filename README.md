@@ -127,7 +127,7 @@ const Sayan = {
 ###
 
 <div align="center">
-  <img src="/index.html" alt="image of counter">
+  <img src="http://127.0.0.1:5500/index.html" alt="image of counter">
 </div>
 
 ###
