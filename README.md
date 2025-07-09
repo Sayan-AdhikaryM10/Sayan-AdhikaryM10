@@ -126,6 +126,6 @@ const Sayan = {
 
 ###
 
-[🔢 My Commit Counter]()
+[🔢 My Commit Counter](https://sayan-adhikaryM10.github.io/Sayan-AdhikaryM10/)
 
 ###
