@@ -126,8 +126,5 @@ const Sayan = {
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Sayan-AdhikaryM10/count.svg" />
-</div>
-
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Sayan-AdhikaryM10)
 ###
