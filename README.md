@@ -127,7 +127,7 @@ const Sayan = {
 ###
 
 <div align="center">
-  
+  <img src="/index.html" alt="image of counter">
 </div>
 
 ###
