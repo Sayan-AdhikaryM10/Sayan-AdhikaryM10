@@ -126,7 +126,7 @@ const Sayan = {
 
 ###
 
-<div>
+
   ![Visitor Count](https://komarev.com/ghpvc/?username=Sayan-AdhikaryM10&color=blue)
-</div>
+
 ###
