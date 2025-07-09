@@ -126,8 +126,6 @@ const Sayan = {
 
 ###
 
-<div align="center">
-  <img src="https://sayan-adhikarym10.github.io/Sayan-AdhikaryM10/" alt="image of counter">
-</div>
+[🔢 My Commit Counter]()
 
 ###
