@@ -126,6 +126,8 @@ const Sayan = {
 
 ###
 
-[🔢 My Commit Counter](https://sayan-adhikaryM10.github.io/Sayan-AdhikaryM10/)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Sayan-AdhikaryM10/count.svg" />
+</div>
 
 ###
