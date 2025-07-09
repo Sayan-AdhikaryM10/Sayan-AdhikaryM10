@@ -127,7 +127,7 @@ const Sayan = {
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Sayan-AdhikaryM10/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Sayan-AdhikaryM10/count.svg" />
 </div>
 
 ###
