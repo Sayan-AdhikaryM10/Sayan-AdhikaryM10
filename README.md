@@ -126,5 +126,7 @@ const Sayan = {
 
 ###
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Sayan-AdhikaryM10)
+<div>
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Sayan-AdhikaryM10&color=blue)
+</div>
 ###
