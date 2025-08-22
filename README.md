@@ -70,7 +70,7 @@
 <div align="left">
  <a href="https://www.instagram.com/adhikaryleogod/" 
    target="_blank" 
-   style="display:inline-flex; align-items:center; background-color:#e1306c; color:white; padding:8 20; border-radius:3; text-decoration:none; font-weight:bold; font-family:Arial, sans-serif; font-size:14; transition:background 0.3;">
+   style="display:inline-flex; align-items:center; background-color:#e1306c; color:white; padding:8px 20px; border-radius:3; text-decoration:none; font-weight:bold; font-family:Arial, sans-serif; font-size:14px; transition:background 0.3s;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
        alt="Instagram logo" 
        style="width:20; height:20; margin-right:8;">
