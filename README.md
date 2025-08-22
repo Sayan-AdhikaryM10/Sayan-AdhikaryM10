@@ -68,9 +68,15 @@
 
 ###
 <div align="left">
-  <a href="https://www.instagram.com/adhikaryleogod/" target="_blank">
-    <img src="[instargram.jpg](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)" height="35" alt="instagram logo"  />
-  </a>
+ <a href="https://www.instagram.com/adhikaryleogod/" 
+   target="_blank" 
+   style="display:inline-flex; align-items:center; background-color:#e1306c; color:white; padding:8 20; border-radius:3; text-decoration:none; font-weight:bold; font-family:Arial, sans-serif; font-size:14; transition:background 0.3;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" 
+       alt="Instagram logo" 
+       style="width:20; height:20; margin-right:8;">
+  INSTAGRAM
+</a>
+
   <a href="https://mail.google.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
