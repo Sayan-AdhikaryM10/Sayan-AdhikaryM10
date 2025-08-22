@@ -20,7 +20,7 @@
 
 <a href="https://x.com/AdhikaryLeogod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sayan_adhi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sayan-adhikary-088a34270/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan_adhi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/adhikaryleogod/" target="blank"><img align="center" src="https://www.instagram.com/instagram/" alt="sayan_adhi" height="30" width="40" /></a>
+<a href="https://www.instagram.com/adhikaryleogod/" target="blank"><img align="center" src="instargram.jpg" alt="sayan_adhi" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/leoGod10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sayan_adhi" height="30" width="40" /></a>
 </p>
 
