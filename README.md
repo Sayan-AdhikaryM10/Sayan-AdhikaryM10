@@ -57,8 +57,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" width="40" alt="Google" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8i4zPog-0j0JR_yZglxPhTPZXxN2iMTQ3Dw&s" height="40" width="40" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="Figma" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" width="40" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" width="40" alt="PostgreSQL" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="40" width="40" alt="MongoDB" />
