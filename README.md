@@ -26,6 +26,7 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" height="250" alt="stats graph"  />
+ </div>
 
  <div>
 <picture>
@@ -34,7 +35,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
 </picture>
 </div>
-</div>
+
 
 
 
