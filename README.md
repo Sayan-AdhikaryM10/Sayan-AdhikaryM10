@@ -34,7 +34,6 @@
 ![Sayan Adhikary](https://github-contributor-stats.vercel.app/api?username=Sayan-AdhikaryM10&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-###
 <div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -43,7 +42,7 @@
 </picture>
 </div>
 
-###
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
