@@ -29,7 +29,7 @@
 ###
 <div align="center">
 
-  ![Sayan-AdhikaryM10 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan-AdhikaryM10&show_icons=true&theme=gruvbox)
+  ![Sayan-AdhikaryM10 GitHub stats](https://github-readme-stats-jl1t4zdid-sayan-adhikarym10s-projects.vercel.app)
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sayan-AdhikaryM10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
