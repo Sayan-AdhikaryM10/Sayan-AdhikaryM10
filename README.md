@@ -29,10 +29,10 @@
 ###
 <div align="center">
 
- ![Sayan GitHub Stats](https://github-readme-stats-4868nnx65-sayan-adhikarym10s-projects.vercel.app/api?username=Sayan-AdhikaryM10&show_icons=true&theme=gruvbox)
+ ![Sayan GitHub Stats](https://github.com/Sayan-AdhikaryM10/github-readme-stats/api?username=Sayan-AdhikaryM10&show_icons=true&theme=gruvbox)
 
 
-![Top Languages](https://github-readme-stats-4868nnx65-sayan-adhikarym10s-projects.vercel.app/api/top-langs/?username=Sayan-AdhikaryM10&layout=compact&theme=dracula)
+![Top Languages](https://github.com/Sayan-AdhikaryM10/github-readme-stats/api/top-langs/?username=Sayan-AdhikaryM10&layout=compact&theme=dracula)
 
 </div>
 
